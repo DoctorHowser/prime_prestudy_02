@@ -4,7 +4,7 @@ var avengersMovie = { //missing var
 	releaseYear: 2012,//colon insead of equals sign, comma instead of semi-colon
 	director: "Joss Whedon"//property name shouldn't be a string, lowercase director, no period at end
 };//add semicolon to end assignment
-
+console.log(avengersMovie);
 /* old code
 avengersMovie = {
     name : Avengers;
